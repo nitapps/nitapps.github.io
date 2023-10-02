@@ -56331,7 +56331,7 @@ A.d6(new A.bk(s,r,"flutter web plugins",p,null,!1))}},
 $S:9}
 A.Ux.prototype={}
 A.Bd.prototype={
-S(a){return new A.r9(B.CK,"Flutter Demo",A.abC(null,B.fc,null),!1,null)}}
+S(a){return new A.r9(B.CK,"NitApps",A.abC(null,B.fc,null),!1,null)}}
 A.rn.prototype={
 aq(){return new A.He(B.m)}}
 A.He.prototype={
